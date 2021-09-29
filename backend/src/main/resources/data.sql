@@ -1,0 +1,5 @@
+INSERT INTO tb_client (name, cpf ) VALUES ('Nayanne', '0545454554')
+INSERT INTO tb_client (name, cpf ) VALUES ('Rafael', '0545454554')
+INSERT INTO tb_client (name, cpf ) VALUES ('Rosi', '0545454554')
+INSERT INTO tb_client (name, cpf ) VALUES ('Tiago', '0545454554')
+INSERT INTO tb_client (name, cpf ) VALUES ('Fernanda', '0545454554')
