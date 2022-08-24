@@ -20,27 +20,30 @@ A aplicação consiste em um Cadastro de clientes no Banco H2 com as modalidades
 - JPA / Hibernate
 - Maven
 
-## Implantação em produção
-- Back end: Java
-- Banco de dados: H2
+# Competências
 
-# Como executar o projeto
+- Criar projeto Spring Boot
+- Criar monorepo Git
+- Organizar o projeto em camadas
+  - Controlador REST
+  - Serviço
+  - Acesso a dados (Repository)
+- Criar entidades
+- Configurar perfil de teste do projeto
+- Seeding da base de dados
+- Criar web services REST
+  - Parâmetros de rota @PathVariable
+  - Parâmetros de requisição @RequestParam
+  - Corpo de requisição @RequestBody
+  - Resposta da requisição ResponseEntity<T>
+- Padrão DTO
+- CRUD completo
+- Tratamento de exceções
+- Postman (coleções, ambientes)
+- Dados de auditoria
+- Paginação de dados
+- Associações entre entidades (N-N)
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/NayanneFerreira/New-Project-Client.git
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-# clonar repositório
-git clone https://github.com/NayanneFerreira/New-Project-Client.git
 
 # Autor
 
