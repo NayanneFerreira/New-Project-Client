@@ -39,14 +39,8 @@ cd backend
 # executar o projeto
 ./mvnw spring-boot:run
 ```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
 # clonar repositório
 git clone https://github.com/NayanneFerreira/New-Project-Client.git
-
 
 # Autor
 
