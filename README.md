@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Cadastro de Clientes é uma aplicação Back End Java construída a nivel de estudos atravez da plantaforma **DevSuperior** mencionado pelo professor **Nélio Alves** [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Cadastro de Clientes é uma aplicação Back End Java construída a nivel de estudos atravez da plantaforma **DevSuperior** ministrado pelo professor **Nélio Alves** [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um Cadastro de clientes no Banco H2 com as modalidades de listar com paginação, listar por ID, atuliazar e Deletar.
 
